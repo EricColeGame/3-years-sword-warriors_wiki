@@ -1,0 +1,14 @@
+{
+  "name": "3-years-sword-warriors-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "3-years-sword-warriors.wiki",
+      "custom_domain": true
+    }
+  ]
+}
