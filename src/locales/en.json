@@ -6,7 +6,14 @@
     "description": "Explore 3 Years Sword Warriors Wiki with game guides, sword information, codes, progression tips, and essential resources for new and experienced players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "items": "Items",
+    "combat": "Combat",
+    "progression": "Progression",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "3 Years Sword Warriors Wiki — Codes, Weapons, Tier Lists & Guides",
@@ -432,5 +439,29 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "3 years sword warriors Codes",
+    "overviewDescription": "Explore all working and expired redeem codes, gem rewards, and summon boosts in 3 years sword warriors."
+  },
+  "guide": {
+    "overviewTitle": "3 years sword warriors Beginner Guide & Walkthroughs",
+    "overviewDescription": "Essential beginner guides, gameplay mechanics, update logs, and expert tips for 3 years sword warriors."
+  },
+  "items": {
+    "overviewTitle": "3 years sword warriors Weapons & Swords",
+    "overviewDescription": "Comprehensive database of weapons, swords, katanas, legendary gear, and tier list rankings in 3 years sword warriors."
+  },
+  "combat": {
+    "overviewTitle": "3 years sword warriors Combat & Builds",
+    "overviewDescription": "Master combat mechanics, controls, damage calculations, combos, and character builds in 3 years sword warriors."
+  },
+  "progression": {
+    "overviewTitle": "3 years sword warriors Progression & Leveling",
+    "overviewDescription": "Fast leveling routes, quest progression, boss strategies, skills, and rank milestones in 3 years sword warriors."
+  },
+  "community": {
+    "overviewTitle": "3 years sword warriors Community & World Maps",
+    "overviewDescription": "Discover map locations, character rosters, server info, news, and official community links for 3 years sword warriors."
   }
 }
