@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Weapons & Tier Lists",
   description: "Your ultimate guide to 3 Years Sword Warriors on Roblox! Explore active working codes, swords, weapons, best upgrades, combat strategies, and progression guides.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://3-years-sword-warriors.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://3-years-sword-warriors.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@3-years-sword-warriors.wiki",
   gameUrl: "https://www.roblox.com/games/12986400307/Sword-Warriors",
   heroVideoId: "1cSuoITTEOs",
   social: {
