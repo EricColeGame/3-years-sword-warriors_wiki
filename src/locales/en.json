@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "3 Years Sword Warriors Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete 3 Years Sword Warriors guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "3 Years Sword Warriors Wiki — Codes, Weapons, Tier Lists & Guides",
+      "description": "Complete 3 Years Sword Warriors guide on Roblox with active working codes, sword tier lists, weapon upgrade stats, and beginner progression tips."
     },
     "hero": {
       "eyebrow": "Fantasy Sword Fighting Adventure Game",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn core combat controls, wave defense mechanics, and initial stage progression to start conquering early worlds."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Accelerate your character growth with optimal EXP farming heroes, wave clearing tactics, and training routes."
         },
         {
           "number": "3",
           "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "description": "Maximize your Gem earnings and Rune Coin income across key world stages and endless challenge modes."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in 3 Years Sword Warriors."
+          "title": "All Working Codes",
+          "description": "Redeem the latest promotional codes for free Gold Eternal Keys, Treasure Coupons, and essential stat boosts."
         }
       ]
     },
@@ -62,237 +62,303 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Sword Tier List",
+        "Active Codes",
+        "Boss Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master early combat, stage navigation, and hero management from your very first login.",
+          "href": "/guide/3-years-sword-warriors-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All operational codes with Gold Eternal Keys and XP Boosts redeem before expiration.",
+          "href": "/codes/3-years-sword-warriors-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Meta",
+          "title": "Sword Tier List",
+          "description": "Complete ranking of top weapons, legendary blades, and ornaments across all star tiers.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Weapons Database",
+          "description": "Base power, 5-star scaling, and acquisition methods for every sword in the game.",
+          "href": "/items/3-years-sword-warriors-weapons"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Combat",
+          "title": "Controls & Combat",
+          "description": "Essential movement keys, attack timings, and layout mapping for fluid combos.",
+          "href": "/combat/3-years-sword-warriors-controls"
+        },
+        {
+          "badge": "Raid",
+          "title": "Boss Raid Guide",
+          "description": "Raid lobby preparation, rune enhancements, and strategies for Nightmare boss battles.",
+          "href": "/progression/3-years-sword-warriors-bosses"
+        },
+        {
+          "badge": "Progression",
+          "title": "Skills & DPS Guide",
+          "description": "Detailed hit counts, cooldown ratios, and damage analysis for single and multi-hit abilities.",
+          "href": "/progression/3-years-sword-warriors-skills"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Maps & World Guide",
+          "description": "Complete breakdown of world progression from early zones to late research institutes.",
+          "href": "/community/3-years-sword-warriors-maps"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Update",
+          "title": "Update History",
+          "description": "Track major expansions, new worlds, special event shops, and developer patch notes.",
+          "href": "/guide/3-years-sword-warriors-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is 3 Years Sword Warriors?",
       "paragraphs": [
-        "3 Years Sword Warriors is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "3 Years Sword Warriors is a fast-paced fantasy sword combat adventure on Roblox. Players face off against relentless waves of enemies, collect and upgrade hundreds of legendary blades, summon powerful companion heroes, and explore diverse fantasy worlds ranging from mystical forests to celestial realms.",
+        "With deep progression mechanics including the World 2 Sword Activation system, customizable hero ornaments, multi-tier rune enhancement up to level 16, and challenging endless raid modes, our community wiki provides verified stats, drop tables, and progression guides to help you become the ultimate warrior."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Fantasy RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "267M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "359K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Rating",
+          "value": "95.8%"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Max Players",
+          "value": "6 per Server"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore 3 Years Sword Warriors Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master every stage in 3 Years Sword Warriors with complete weapon databases, active promo codes, hero tier rankings, and boss raid walkthroughs.",
       "modules": [
         {
           "order": 1,
-          "name": "3 Years Sword Warriors Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "3 Years Sword Warriors Codes",
+          "description": "A code redemption section covering the latest active codes, expired codes, and rewards players can claim. This targets high-volume searches from players looking for free gems, boosts, heroes, and other in-game rewards.",
           "href": "/codes/3-years-sword-warriors-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "HAPPYSPRING26",
+              "detail": "1 Transmogrified Card, 2 Eternal Coupons, 2 Gold Keys"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "HURYXMAS2025",
+              "detail": "1 Skill Reset Card, 5 Gold Eternal Keys, 5 Coupons"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "SWORD",
+              "detail": "2x Experience Boost for 30 minutes"
+            },
+            {
+              "label": "COUNTERATTACK",
+              "detail": "2x Gem Boost for 30 minutes"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "3 Years Sword Warriors Beginner Guide",
+          "description": "A starter guide explaining core gameplay loops, combat progression, weapon upgrades, skill usage, and hero summoning systems. It helps new players understand how to progress efficiently from early stages.",
           "href": "/guide/3-years-sword-warriors-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Learn basic movement and weapon swing inputs in the starter safe zone"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Equip early mission drops like Branch and Iron Sword to boost attack power"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Summon specialized EXP Farmer and Gem Farmer heroes to speed up resource gain"
+            },
+            {
+              "label": "4",
+              "detail": "Unlock World 2 to access the powerful Sword Activation system"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/3-years-sword-warriors-tier-list",
+          "name": "3 Years Sword Warriors Heroes Tier List",
+          "description": "A ranking guide comparing available heroes based on combat performance, usefulness, and progression value. This module targets players searching which heroes are worth summoning and upgrading.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Flame Wizard · Shaman · Speaker Woman · Night Hunter"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Drill Titan · Upgrade Titan Drillman · Prophet · Lily Boleyn"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Rogue · Swordsman · Titan Cameraman · Forsaken Priest"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Ogmarl · Snow Queen · Drillmaster · Marth"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/3-years-sword-warriors-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "3 Years Sword Warriors Weapons Guide",
+          "description": "A database-style guide covering swords, equipment upgrades, and ways to improve combat power. It helps players choose better equipment and understand upgrade priorities.",
+          "href": "/items/3-years-sword-warriors-weapons",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Branch",
+              "detail": "Common Tier · 11 Base Power (0-Star) → 45 Power (5-Star)"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Iron Sword",
+              "detail": "Rare Tier · 15 Base Power (0-Star) → 62 Power (5-Star)"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Wolf Sword",
+              "detail": "Common Tier · 65 Base Power (0-Star) → 270 Power (5-Star)"
+            },
+            {
+              "label": "Warrior Sword",
+              "detail": "Rare Tier · 280 Base Power (0-Star) → 1,165 Power (5-Star)"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/3-years-sword-warriors-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "3 Years Sword Warriors Skills Guide",
+          "description": "A guide explaining skill mechanics, skill progression, and how abilities affect battles. Players can use this section to optimize their builds and damage output.",
+          "href": "/progression/3-years-sword-warriors-skills",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Slash",
+              "detail": "Circular Slash: 2 Hits, 5s Cooldown, rapid multi-hit synergy"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Whirlwind",
+              "detail": "WhirlWind: 9 Hits, 30s Cooldown, wide area-of-effect coverage"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Hurricane",
+              "detail": "Hurricane Slash: 24 Hits, 60s Cooldown, ultimate sustained DPS"
+            },
+            {
+              "label": "Breath",
+              "detail": "Nidhoggur Breath: 10 Hits, 60s Cooldown, heavy elemental pressure"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/3-years-sword-warriors-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "3 Years Sword Warriors Worlds Guide",
+          "description": "A progression guide listing worlds, enemy challenges, bosses, and recommended power levels. This helps players understand the game's stage progression and unlock path.",
+          "href": "/community/3-years-sword-warriors-maps",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "World 1-3",
+              "detail": "Horde Camp · Basic Combat & Sword Enchantment unlock"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "World 4-6",
+              "detail": "Glacial Chasm & Dark Castle · Elemental swords & mob scaling"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "World 7-9",
+              "detail": "Cemetery, Hell & Heaven · Celestial drops & high-tier bosses"
+            },
+            {
+              "label": "World 11-12",
+              "detail": "Wild & Titan Research Institute · Endgame research mechanics"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "3 Years Sword Warriors Boss Guide",
+          "description": "A combat reference covering major bosses, battle strategies, and preparation requirements. It helps players searching for ways to defeat difficult enemies and progress further.",
+          "href": "/progression/3-years-sword-warriors-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lobby",
+              "detail": "Rune Master NPC and Rune Shop preparation before entering raids"
+            },
+            {
+              "label": "Runes",
+              "detail": "Upgrade combat runes up to Level 16 for maximum damage mitigation"
+            },
+            {
+              "label": "Nightmare",
+              "detail": "High-intensity timed challenges for leaderboard rankings and rare glory"
+            },
+            {
+              "label": "Tactics",
+              "detail": "Coordinate hero abilities with burst skill rotations to clear phases"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "3 Years Sword Warriors Update Guide",
+          "description": "A news-style section tracking major updates, events, new content, and changes introduced by the developers. It provides a place for players looking for the newest game information.",
+          "href": "/guide/3-years-sword-warriors-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "World 12",
+              "detail": "Titan Research Institute and Season 2 Leaderboards in Pantheon"
+            },
+            {
+              "label": "Swords",
+              "detail": "Over 14 new swords and endless mode weapon additions"
+            },
+            {
+              "label": "Ornaments",
+              "detail": "Hero Ornaments system for specialized passive stat buffs"
+            },
+            {
+              "label": "Events",
+              "detail": "Timed festival challenges, Star Collect events, and daily login gifts"
             }
           ]
         }
@@ -304,23 +370,23 @@
       "items": [
         {
           "question": "What is 3 Years Sword Warriors?",
-          "answer": "3 Years Sword Warriors is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "3 Years Sword Warriors is a fantasy sword-fighting adventure on Roblox where players defeat enemy waves, upgrade swords, summon heroes, and explore diverse worlds with unique boss encounters."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem 3 Years Sword Warriors codes?",
+          "answer": "Open 3 Years Sword Warriors on Roblox, open the in-game Settings menu, locate the code redemption field, paste your active code, and click Redeem to receive keys, gems, and boosts."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which heroes should beginners prioritize in 3 Years Sword Warriors?",
+          "answer": "Beginners in 3 Years Sword Warriors should prioritize EXP Farmer and Gem Farmer heroes early on to accelerate leveling and currency generation before investing in high-tier damage dealers."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does weapon star upgrading work in 3 Years Sword Warriors?",
+          "answer": "Weapons in 3 Years Sword Warriors scale from 0-star to 5-star upgrades, significantly multiplying base attack power and enabling players to clear higher-difficulty stages and bosses."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I find active boss raids in 3 Years Sword Warriors?",
+          "answer": "In 3 Years Sword Warriors, you can access boss raids via the Raid Lobby to upgrade runes up to level 16, purchase vital buffs from the Rune Shop, and take on Nightmare mode."
         }
       ]
     },
