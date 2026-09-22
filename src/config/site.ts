@@ -1,3 +1,6 @@
+export const SUPPORTED_LOCALES = ["en", "es", "pt", "id"] as const;
+export type SiteLocale = (typeof SUPPORTED_LOCALES)[number];
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -15,7 +18,7 @@ export interface SiteConfig {
     tiktok?: string;
   };
   locales: readonly string[];
-  defaultLocale: string;
+  defaultLocale: SiteLocale;
 }
 
 export const siteConfig: SiteConfig = {
@@ -32,6 +35,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
   },
-  locales: ["en", "es", "pt", "id"],
+  locales: SUPPORTED_LOCALES,
   defaultLocale: "en",
 };
