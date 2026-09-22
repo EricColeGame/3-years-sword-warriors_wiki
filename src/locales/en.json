@@ -32,7 +32,8 @@
       "primaryCta": "Beginner Guide",
       "secondaryCta": "Weapon Tier List",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official media",
+      "closeLabel": "Close"
     },
     "updates": {
       "title": "Latest Updates",
@@ -168,6 +169,8 @@
     "explore": {
       "title": "Explore 3 Years Sword Warriors Wiki",
       "description": "Master every stage in 3 Years Sword Warriors with complete weapon databases, active promo codes, hero tier rankings, and boss raid walkthroughs.",
+      "readFullGuide": "Read Full Guide",
+      "tierSuffix": "Tier",
       "modules": [
         {
           "order": 1,
@@ -419,7 +422,12 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoonCodes": "Check back soon for new codes",
+    "pageNotFound": "Page not found",
+    "pageNotFoundHint": "The guide you are looking for may have moved or has not been added yet.",
+    "browseBossGuides": "Browse Boss Guides"
   },
   "footer": {
     "aboutTitle": "3 Years Sword Warriors Wiki",

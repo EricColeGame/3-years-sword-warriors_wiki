@@ -1,1 +1,475 @@
-{}
+{
+  "site": {
+    "name": "3 Years Sword Warriors Wiki",
+    "shortName": "3 Years Sword Warriors",
+    "tagline": "Panduan Lengkap, Kode, Senjata & Tier List",
+    "description": "Jelajahi Wiki 3 Years Sword Warriors dengan panduan game, informasi pedang, kode, tips progresi, dan sumber daya penting bagi pemain baru maupun berpengalaman.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "codes": "Kode",
+    "guide": "Panduan",
+    "items": "Item",
+    "combat": "Pertarungan",
+    "progression": "Progresi",
+    "community": "Komunitas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki 3 Years Sword Warriors — Kode, Senjata, Tier List & Panduan",
+      "description": "Panduan lengkap 3 Years Sword Warriors di Roblox dengan kode aktif, tier list pedang, statistik peningkatan senjata, dan tips progresi untuk pemula."
+    },
+    "hero": {
+      "eyebrow": "Game Petualangan Pertarungan Pedang Fantasi",
+      "title": "3 Years Sword Warriors Wiki",
+      "description": "3 Years Sword Warriors adalah game pertarungan pedang fantasi yang berfokus pada progresi pejuang, peningkatan senjata, pertempuran, dan eksplorasi dunia yang dibangun di sekitar skill pedang yang kuat.",
+      "stats": [
+        "Semua Kode",
+        "Senjata & Pedang",
+        "Panduan Pejuang",
+        "Tips Progresi"
+      ],
+      "primaryCta": "Panduan Pemula",
+      "secondaryCta": "Tier List Senjata",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Media resmi",
+      "closeLabel": "Tutup"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan 3 Years Sword Warriors Anda",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari kontrol pertarungan dasar, mekanika pertahanan gelombang, dan progresi tahap awal untuk mulai menaklukkan dunia pertama."
+        },
+        {
+          "number": "2",
+          "title": "Naik Level Tercepat",
+          "description": "Percepat pertumbuhan karakter Anda dengan hero farmar EXP terbaik, taktik pembersihan gelombang, dan rute latihan."
+        },
+        {
+          "number": "3",
+          "title": "Lokasi Farming Terbaik",
+          "description": "Maksimalkan perolehan Permata dan pendapatan Koin Rune di tahap dunia utama serta mode tantangan tanpa akhir."
+        },
+        {
+          "number": "4",
+          "title": "Semua Kode Aktif",
+          "description": "Tukarkan kode promosi terbaru untuk Kunci Eternal Emas, Kupon Harta, dan peningkatan statistik penting secara gratis."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Tier List Pedang",
+        "Kode Aktif",
+        "Panduan Bos"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Kuasai pertarungan awal, navigasi tahap, dan pengelolaan hero sejak login pertama Anda.",
+          "href": "/guide/3-years-sword-warriors-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Semua kode yang masih berfungsi dengan Kunci Eternal Emas dan Bonus XP untuk ditukarkan sebelum kedaluwarsa.",
+          "href": "/codes/3-years-sword-warriors-codes"
+        },
+        {
+          "badge": "Meta",
+          "title": "Tier List Pedang",
+          "description": "Peringkat lengkap senjata terbaik, bilah legendaris, dan ornamen di semua tingkat bintang.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list"
+        },
+        {
+          "badge": "Populer",
+          "title": "Basis Data Senjata",
+          "description": "Kekuatan dasar, peningkatan 5 bintang, dan cara mendapatkan setiap pedang di game.",
+          "href": "/items/3-years-sword-warriors-weapons"
+        },
+        {
+          "badge": "Pertarungan",
+          "title": "Kontrol & Pertarungan",
+          "description": "Tombol gerakan penting, waktu serangan, dan pemetaan tata letak untuk combo yang lancar.",
+          "href": "/combat/3-years-sword-warriors-controls"
+        },
+        {
+          "badge": "Raid",
+          "title": "Panduan Raid Bos",
+          "description": "Persiapan lobi raid, peningkatan rune, dan strategi untuk pertempuran bos mode Nightmare.",
+          "href": "/progression/3-years-sword-warriors-bosses"
+        },
+        {
+          "badge": "Progresi",
+          "title": "Panduan Skill & DPS",
+          "description": "Rincian jumlah hit, rasio cooldown, dan analisis damage untuk kemampuan hit tunggal maupun multi-hit.",
+          "href": "/progression/3-years-sword-warriors-skills"
+        },
+        {
+          "badge": "Baru",
+          "title": "Panduan Peta & Dunia",
+          "description": "Rincian lengkap progresi dunia dari zona awal hingga institut penelitian tingkat lanjut.",
+          "href": "/community/3-years-sword-warriors-maps"
+        },
+        {
+          "badge": "Pembaruan",
+          "title": "Riwayat Pembaruan",
+          "description": "Lacak ekspansi besar, dunia baru, toko event khusus, dan catatan patch pengembang.",
+          "href": "/guide/3-years-sword-warriors-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu 3 Years Sword Warriors?",
+      "paragraphs": [
+        "3 Years Sword Warriors adalah petualangan pertarungan pedang fantasi yang cepat di Roblox. Pemain menghadapi gelombang musuh tanpa henti, mengumpulkan dan meningkatkan ratusan bilah legendaris, memanggil hero pendamping yang kuat, dan menjelajahi berbagai dunia fantasi mulai dari hutan mistis hingga alam surgawi.",
+        "Dengan mekanika progresi yang mendalam, termasuk sistem Aktivasi Pedang Dunia 2, ornamen hero yang dapat disesuaikan, peningkatan rune bertingkat hingga level 16, dan mode raid tanpa akhir yang menantang, wiki komunitas kami menyediakan statistik terverifikasi, tabel drop, dan panduan progresi untuk membantu Anda menjadi pejuang terbaik."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "RPG Fantasi"
+        },
+        {
+          "label": "Total Kunjungan",
+          "value": "267M+"
+        },
+        {
+          "label": "Favorit",
+          "value": "359K+"
+        },
+        {
+          "label": "Peringkat",
+          "value": "95.8%"
+        },
+        {
+          "label": "Pemain Maks.",
+          "value": "6 per Server"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Wiki 3 Years Sword Warriors",
+      "description": "Kuasai setiap tahap di 3 Years Sword Warriors dengan basis data senjata lengkap, kode promo aktif, peringkat hero, dan panduan raid bos.",
+      "readFullGuide": "Baca Panduan Lengkap",
+      "tierSuffix": "Tingkat",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode 3 Years Sword Warriors",
+          "description": "Bagian penukaran kode yang mencakup kode aktif terbaru, kode kedaluwarsa, dan hadiah yang bisa diklaim pemain. Bagian ini menyasar pencarian bervolume tinggi dari pemain yang mencari permata, bonus, hero, dan hadiah dalam game lainnya secara gratis.",
+          "href": "/codes/3-years-sword-warriors-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HAPPYSPRING26",
+              "detail": "1 Kartu Transmogrified, 2 Kupon Eternal, 2 Kunci Emas"
+            },
+            {
+              "label": "HURYXMAS2025",
+              "detail": "1 Kartu Reset Skill, 5 Kunci Eternal Emas, 5 Kupon"
+            },
+            {
+              "label": "SWORD",
+              "detail": "Bonus Pengalaman 2x selama 30 menit"
+            },
+            {
+              "label": "COUNTERATTACK",
+              "detail": "Bonus Permata 2x selama 30 menit"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula 3 Years Sword Warriors",
+          "description": "Panduan awal yang menjelaskan alur gameplay inti, progresi pertarungan, peningkatan senjata, penggunaan skill, dan sistem pemanggilan hero. Membantu pemain baru memahami cara berkembang secara efisien sejak tahap awal.",
+          "href": "/guide/3-years-sword-warriors-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pelajari gerakan dasar dan input ayunan senjata di zona aman awal"
+            },
+            {
+              "label": "2",
+              "detail": "Pakai drop misi awal seperti Branch dan Iron Sword untuk meningkatkan kekuatan serangan"
+            },
+            {
+              "label": "3",
+              "detail": "Panggil hero khusus EXP Farmer dan Gem Farmer untuk mempercepat perolehan sumber daya"
+            },
+            {
+              "label": "4",
+              "detail": "Buka Dunia 2 untuk mengakses sistem Aktivasi Pedang yang kuat"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier List Hero 3 Years Sword Warriors",
+          "description": "Panduan peringkat yang membandingkan hero yang tersedia berdasarkan performa pertarungan, kegunaan, dan nilai progresi. Modul ini menyasar pemain yang mencari hero mana yang layak dipanggil dan ditingkatkan.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Penyihir Api · Dukun · Wanita Pembicara · Pemburu Malam"
+            },
+            {
+              "label": "A",
+              "detail": "Titan Bor · Titan Drillman Upgrade · Nabi · Lily Boleyn"
+            },
+            {
+              "label": "B",
+              "detail": "Rogue · Pendekar Pedang · Titan Cameraman · Pendeta Terabaikan"
+            },
+            {
+              "label": "C",
+              "detail": "Ogmarl · Ratu Salju · Drillmaster · Marth"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Panduan Senjata 3 Years Sword Warriors",
+          "description": "Panduan bergaya basis data yang mencakup pedang, peningkatan perlengkapan, dan cara meningkatkan kekuatan pertarungan. Membantu pemain memilih perlengkapan yang lebih baik dan memahami prioritas peningkatan.",
+          "href": "/items/3-years-sword-warriors-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Branch",
+              "detail": "Tingkat Umum · 11 Kekuatan Dasar (0 Bintang) → 45 Kekuatan (5 Bintang)"
+            },
+            {
+              "label": "Iron Sword",
+              "detail": "Tingkat Langka · 15 Kekuatan Dasar (0 Bintang) → 62 Kekuatan (5 Bintang)"
+            },
+            {
+              "label": "Wolf Sword",
+              "detail": "Tingkat Umum · 65 Kekuatan Dasar (0 Bintang) → 270 Kekuatan (5 Bintang)"
+            },
+            {
+              "label": "Warrior Sword",
+              "detail": "Tingkat Langka · 280 Kekuatan Dasar (0 Bintang) → 1.165 Kekuatan (5 Bintang)"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Skill 3 Years Sword Warriors",
+          "description": "Panduan yang menjelaskan mekanika skill, progresi skill, dan bagaimana kemampuan memengaruhi pertempuran. Pemain dapat menggunakan bagian ini untuk mengoptimalkan build dan output damage mereka.",
+          "href": "/progression/3-years-sword-warriors-skills",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tebasan",
+              "detail": "Tebasan Melingkar: 2 Hit, Cooldown 5 detik, sinergi multi-hit yang cepat"
+            },
+            {
+              "label": "Pusaran",
+              "detail": "Pusaran Angin: 9 Hit, Cooldown 30 detik, cakupan area yang luas"
+            },
+            {
+              "label": "Badai",
+              "detail": "Tebasan Badai: 24 Hit, Cooldown 60 detik, DPS berkelanjutan terbaik"
+            },
+            {
+              "label": "Napas",
+              "detail": "Napas Nidhoggur: 10 Hit, Cooldown 60 detik, tekanan elemental yang berat"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Dunia 3 Years Sword Warriors",
+          "description": "Panduan progresi yang mencantumkan dunia, tantangan musuh, bos, dan level kekuatan yang disarankan. Membantu pemain memahami progresi tahap game dan jalur pembukaannya.",
+          "href": "/community/3-years-sword-warriors-maps",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "World 1-3",
+              "detail": "Kamp Horde · Pembukaan Pertarungan Dasar & Enchantment Pedang"
+            },
+            {
+              "label": "World 4-6",
+              "detail": "Jurang Glasial & Kastil Gelap · Pedang elemental & peningkatan musuh"
+            },
+            {
+              "label": "World 7-9",
+              "detail": "Kuburan, Neraka & Surga · Drop surgawi & bos tingkat tinggi"
+            },
+            {
+              "label": "World 11-12",
+              "detail": "Wild & Institut Penelitian Titan · Mekanika penelitian endgame"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Panduan Bos 3 Years Sword Warriors",
+          "description": "Referensi pertarungan yang mencakup bos utama, strategi pertempuran, dan persyaratan persiapan. Membantu pemain yang mencari cara mengalahkan musuh sulit dan berkembang lebih jauh.",
+          "href": "/progression/3-years-sword-warriors-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lobi",
+              "detail": "Persiapan dengan NPC Rune Master dan toko rune sebelum memasuki raid"
+            },
+            {
+              "label": "Rune",
+              "detail": "Tingkatkan rune pertarungan hingga Level 16 untuk mitigasi damage maksimal"
+            },
+            {
+              "label": "Nightmare",
+              "detail": "Tantangan berwaktu berintensitas tinggi untuk peringkat papan skor dan kejayaan langka"
+            },
+            {
+              "label": "Taktik",
+              "detail": "Koordinasikan kemampuan hero dengan rotasi skill burst untuk melewati setiap fase"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Panduan Pembaruan 3 Years Sword Warriors",
+          "description": "Bagian bergaya berita yang melacak pembaruan besar, event, konten baru, dan perubahan yang diperkenalkan pengembang. Menyediakan tempat bagi pemain yang mencari informasi game terbaru.",
+          "href": "/guide/3-years-sword-warriors-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dunia 12",
+              "detail": "Institut Penelitian Titan dan Papan Peringkat Musim 2 di Pantheon"
+            },
+            {
+              "label": "Pedang",
+              "detail": "Lebih dari 14 pedang baru dan penambahan senjata mode tanpa akhir"
+            },
+            {
+              "label": "Ornamen",
+              "detail": "Sistem Ornamen Hero untuk bonus statistik pasif yang terspesialisasi"
+            },
+            {
+              "label": "Event",
+              "detail": "Tantangan festival berwaktu, event Star Collect, dan hadiah login harian"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban cepat untuk pertanyaan paling umum tentang 3 Years Sword Warriors.",
+      "items": [
+        {
+          "question": "Apa itu 3 Years Sword Warriors?",
+          "answer": "3 Years Sword Warriors adalah petualangan pertarungan pedang fantasi di Roblox tempat pemain mengalahkan gelombang musuh, meningkatkan pedang, memanggil hero, dan menjelajahi berbagai dunia dengan pertemuan bos yang unik."
+        },
+        {
+          "question": "Bagaimana cara menukarkan kode 3 Years Sword Warriors?",
+          "answer": "Buka 3 Years Sword Warriors di Roblox, buka menu Pengaturan dalam game, temukan kolom penukaran kode, tempelkan kode aktif Anda, lalu klik Tukar untuk menerima kunci, permata, dan bonus."
+        },
+        {
+          "question": "Hero mana yang harus diprioritaskan pemula di 3 Years Sword Warriors?",
+          "answer": "Pemula di 3 Years Sword Warriors sebaiknya memprioritaskan hero EXP Farmer dan Gem Farmer lebih awal untuk mempercepat naik level dan menghasilkan mata uang sebelum berinvestasi pada penyerang damage tingkat tinggi."
+        },
+        {
+          "question": "Bagaimana cara kerja peningkatan bintang senjata di 3 Years Sword Warriors?",
+          "answer": "Senjata di 3 Years Sword Warriors berkembang dari peningkatan 0 bintang hingga 5 bintang, yang melipatgandakan kekuatan serangan dasar secara signifikan dan memungkinkan pemain menaklukkan tahap serta bos yang lebih sulit."
+        },
+        {
+          "question": "Di mana saya bisa menemukan raid bos aktif di 3 Years Sword Warriors?",
+          "answer": "Di 3 Years Sword Warriors, Anda dapat mengakses raid bos melalui Lobi Raid untuk meningkatkan rune hingga level 16, membeli bonus penting di Toko Rune, dan menghadapi mode Nightmare."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai 3 Years Sword Warriors?",
+      "description": "Dari pedang pertama Anda hingga pertempuran pejuang endgame, wiki komunitas kami siap membantu dengan panduan gratis dan selalu diperbarui.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Mainkan di Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Mainkan di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan yang tersedia. Kembali lagi nanti!",
+    "noActiveCodes": "Saat ini tidak ada kode aktif yang tersedia",
+    "checkBackSoonCodes": "Kembali lagi nanti untuk kode baru",
+    "pageNotFound": "Halaman tidak ditemukan",
+    "pageNotFoundHint": "Panduan yang Anda cari mungkin telah dipindahkan atau belum ditambahkan.",
+    "browseBossGuides": "Lihat Panduan Bos"
+  },
+  "footer": {
+    "aboutTitle": "3 Years Sword Warriors Wiki",
+    "about": "Wiki 3 Years Sword Warriors adalah pusat panduan independen buatan penggemar yang membahas rute progresi, panduan pedang, senjata, bos, dan pengetahuan penting tentang game bagi pemain baru maupun veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 3 Years Sword Warriors Wiki. Tidak berafiliasi dengan Roblox atau pengembang game.",
+    "description": "RPG pertarungan pedang fantasi di Roblox yang berfokus pada progresi pejuang, peningkatan senjata, dan pertempuran.",
+    "playGame": "Mainkan 3 Years Sword Warriors",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Pembuat Senjata",
+    "beginnerGuide": "Panduan Pemula",
+    "raceGuides": "Panduan Pedang",
+    "bossGuides": "Panduan Bos",
+    "buildGuide": "Panduan Build",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  },
+  "codes": {
+    "overviewTitle": "Kode 3 years sword warriors",
+    "overviewDescription": "Jelajahi semua kode tukar yang aktif dan kedaluwarsa, hadiah permata, dan bonus pemanggilan di 3 years sword warriors."
+  },
+  "guide": {
+    "overviewTitle": "Panduan Pemula & Tutorial 3 years sword warriors",
+    "overviewDescription": "Panduan pemula penting, mekanika gameplay, catatan pembaruan, dan tips ahli untuk 3 years sword warriors."
+  },
+  "items": {
+    "overviewTitle": "Senjata & Pedang 3 years sword warriors",
+    "overviewDescription": "Basis data lengkap senjata, pedang, katana, perlengkapan legendaris, dan peringkat tier list di 3 years sword warriors."
+  },
+  "combat": {
+    "overviewTitle": "Pertarungan & Build 3 years sword warriors",
+    "overviewDescription": "Kuasai mekanika pertarungan, kontrol, perhitungan damage, combo, dan build karakter di 3 years sword warriors."
+  },
+  "progression": {
+    "overviewTitle": "Progresi & Naik Level 3 years sword warriors",
+    "overviewDescription": "Rute naik level cepat, progresi misi, strategi bos, skill, dan tonggak peringkat di 3 years sword warriors."
+  },
+  "community": {
+    "overviewTitle": "Komunitas & Peta Dunia 3 years sword warriors",
+    "overviewDescription": "Temukan lokasi peta, daftar karakter, info server, berita, dan tautan komunitas resmi untuk 3 years sword warriors."
+  }
+}

@@ -1,1 +1,475 @@
-{}
+{
+  "site": {
+    "name": "3 Years Sword Warriors Wiki",
+    "shortName": "3 Years Sword Warriors",
+    "tagline": "Guias completos, códigos, armas e tier lists",
+    "description": "Explore a wiki de 3 Years Sword Warriors com guias do jogo, informações sobre espadas, códigos, dicas de progressão e recursos essenciais para jogadores novos e experientes.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "items": "Itens",
+    "combat": "Combate",
+    "progression": "Progressão",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de 3 Years Sword Warriors — Códigos, Armas, Tier Lists e Guias",
+      "description": "Guia completo de 3 Years Sword Warriors no Roblox com códigos ativos, tier lists de espadas, estatísticas de melhoria de armas e dicas de progressão para iniciantes."
+    },
+    "hero": {
+      "eyebrow": "Jogo de aventura e luta com espadas de fantasia",
+      "title": "3 Years Sword Warriors Wiki",
+      "description": "3 Years Sword Warriors é um jogo de combate com espadas de fantasia focado na progressão do guerreiro, nas melhorias de armas, nas batalhas e na exploração de um mundo construído em torno de poderosas habilidades de espada.",
+      "stats": [
+        "Todos os códigos",
+        "Armas e espadas",
+        "Guias de guerreiro",
+        "Dicas de progressão"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Tier list de armas",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Mídia oficial",
+      "closeLabel": "Fechar"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em 3 Years Sword Warriors",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda os controles básicos de combate, as mecânicas de defesa de ondas e a progressão inicial de estágios para começar a conquistar os primeiros mundos."
+        },
+        {
+          "number": "2",
+          "title": "Level up mais rápido",
+          "description": "Acelere o crescimento do seu personagem com heróis ideais para farmar EXP, táticas de limpeza de ondas e rotas de treino."
+        },
+        {
+          "number": "3",
+          "title": "Melhores locais de farm",
+          "description": "Maximize seus ganhos de gemas e a renda de moedas rúnicas nos principais estágios dos mundos e nos modos de desafio infinito."
+        },
+        {
+          "number": "4",
+          "title": "Todos os códigos ativos",
+          "description": "Resgate os códigos promocionais mais recentes para obter chaves eternas douradas, cupons do tesouro e melhorias de atributos essenciais gratuitamente."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Tier list de espadas",
+        "Códigos ativos",
+        "Guia de chefes"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Domine o combate inicial, a navegação pelos estágios e a gestão de heróis desde o seu primeiro login.",
+          "href": "/guide/3-years-sword-warriors-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Todos os códigos em funcionamento com chaves eternas douradas e bônus de XP para resgatar antes de expirarem.",
+          "href": "/codes/3-years-sword-warriors-codes"
+        },
+        {
+          "badge": "Meta",
+          "title": "Tier list de espadas",
+          "description": "Ranking completo das melhores armas, lâminas lendárias e adornos em todos os níveis de estrelas.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Banco de dados de armas",
+          "description": "Poder base, escalonamento de 5 estrelas e métodos de obtenção de cada espada do jogo.",
+          "href": "/items/3-years-sword-warriors-weapons"
+        },
+        {
+          "badge": "Combate",
+          "title": "Controles e combate",
+          "description": "Teclas de movimento essenciais, tempos de ataque e configuração dos controles para combos fluidos.",
+          "href": "/combat/3-years-sword-warriors-controls"
+        },
+        {
+          "badge": "Raid",
+          "title": "Guia de raids contra chefes",
+          "description": "Preparação do lobby de raid, melhorias de runas e estratégias para as batalhas contra chefes no modo Pesadelo.",
+          "href": "/progression/3-years-sword-warriors-bosses"
+        },
+        {
+          "badge": "Progressão",
+          "title": "Guia de habilidades e DPS",
+          "description": "Contagem detalhada de acertos, proporções de recarga e análise de dano para habilidades de acerto único e múltiplo.",
+          "href": "/progression/3-years-sword-warriors-skills"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de mapas e mundos",
+          "description": "Detalhamento completo da progressão dos mundos, das primeiras zonas até os institutos de pesquisa avançados.",
+          "href": "/community/3-years-sword-warriors-maps"
+        },
+        {
+          "badge": "Atualização",
+          "title": "Histórico de atualizações",
+          "description": "Acompanhe as principais expansões, novos mundos, lojas de eventos especiais e notas de patch dos desenvolvedores.",
+          "href": "/guide/3-years-sword-warriors-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é 3 Years Sword Warriors?",
+      "paragraphs": [
+        "3 Years Sword Warriors é uma aventura acelerada de combate com espadas de fantasia no Roblox. Os jogadores enfrentam ondas incessantes de inimigos, colecionam e melhoram centenas de lâminas lendárias, invocam poderosos heróis companheiros e exploram diversos mundos de fantasia, de florestas místicas a reinos celestiais.",
+        "Com mecânicas de progressão profundas, incluindo o sistema de Ativação de Espadas do Mundo 2, adornos de herói personalizáveis, melhoria de runas em vários níveis até o nível 16 e desafiadores modos de raid infinitos, nossa wiki da comunidade oferece estatísticas verificadas, tabelas de drops e guias de progressão para ajudar você a se tornar o guerreiro definitivo."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "RPG de fantasia"
+        },
+        {
+          "label": "Visitas totais",
+          "value": "267M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "359K+"
+        },
+        {
+          "label": "Avaliação",
+          "value": "95.8%"
+        },
+        {
+          "label": "Jogadores máx.",
+          "value": "6 por servidor"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a wiki de 3 Years Sword Warriors",
+      "description": "Domine cada estágio de 3 Years Sword Warriors com bancos de dados completos de armas, códigos promocionais ativos, rankings de heróis e guias de raids contra chefes.",
+      "readFullGuide": "Ler o guia completo",
+      "tierSuffix": "Nível",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de 3 Years Sword Warriors",
+          "description": "Uma seção de resgate de códigos que cobre os últimos códigos ativos, os expirados e as recompensas que os jogadores podem resgatar. É voltada para buscas de grande volume de jogadores que procuram gemas, bônus, heróis e outras recompensas gratuitas do jogo.",
+          "href": "/codes/3-years-sword-warriors-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "HAPPYSPRING26",
+              "detail": "1 carta transmutada, 2 cupons eternos, 2 chaves douradas"
+            },
+            {
+              "label": "HURYXMAS2025",
+              "detail": "1 carta de reinício de habilidades, 5 chaves eternas douradas, 5 cupons"
+            },
+            {
+              "label": "SWORD",
+              "detail": "Bônus de experiência 2x por 30 minutos"
+            },
+            {
+              "label": "COUNTERATTACK",
+              "detail": "Bônus de gemas 2x por 30 minutos"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para iniciantes de 3 Years Sword Warriors",
+          "description": "Um guia inicial que explica os loops principais de jogabilidade, a progressão de combate, as melhorias de armas, o uso de habilidades e os sistemas de invocação de heróis. Ajuda os novos jogadores a entender como progredir com eficiência desde os primeiros estágios.",
+          "href": "/guide/3-years-sword-warriors-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprenda os controles básicos de movimento e de golpe com a arma na zona segura inicial"
+            },
+            {
+              "label": "2",
+              "detail": "Equipe os itens das primeiras missões, como o galho e a espada de ferro, para aumentar seu poder de ataque"
+            },
+            {
+              "label": "3",
+              "detail": "Invoque heróis especializados em farmar EXP e gemas para acelerar a obtenção de recursos"
+            },
+            {
+              "label": "4",
+              "detail": "Desbloqueie o Mundo 2 para acessar o poderoso sistema de Ativação de Espadas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier list de heróis de 3 Years Sword Warriors",
+          "description": "Um guia de ranking que compara os heróis disponíveis com base no desempenho em combate, na utilidade e no valor de progressão. Este módulo é voltado para jogadores que buscam quais heróis vale a pena invocar e melhorar.",
+          "href": "/items/3-years-sword-warriors-sword-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mago de Chamas · Xamã · Mulher Oradora · Caçador Noturno"
+            },
+            {
+              "label": "A",
+              "detail": "Titã Broca · Titã Broca Aprimorado · Profeta · Lily Boleyn"
+            },
+            {
+              "label": "B",
+              "detail": "Ladino · Espadachim · Titã Cameraman · Sacerdote Abandonado"
+            },
+            {
+              "label": "C",
+              "detail": "Ogmarl · Rainha da Neve · Mestre da Broca · Marth"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guia de armas de 3 Years Sword Warriors",
+          "description": "Um guia em formato de banco de dados que cobre espadas, melhorias de equipamento e formas de aumentar o poder de combate. Ajuda os jogadores a escolher equipamentos melhores e a entender as prioridades de melhoria.",
+          "href": "/items/3-years-sword-warriors-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Branch",
+              "detail": "Nível comum · 11 de poder base (0 estrelas) → 45 de poder (5 estrelas)"
+            },
+            {
+              "label": "Iron Sword",
+              "detail": "Nível raro · 15 de poder base (0 estrelas) → 62 de poder (5 estrelas)"
+            },
+            {
+              "label": "Wolf Sword",
+              "detail": "Nível comum · 65 de poder base (0 estrelas) → 270 de poder (5 estrelas)"
+            },
+            {
+              "label": "Warrior Sword",
+              "detail": "Nível raro · 280 de poder base (0 estrelas) → 1.165 de poder (5 estrelas)"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de habilidades de 3 Years Sword Warriors",
+          "description": "Um guia que explica as mecânicas das habilidades, sua progressão e como as capacidades afetam as batalhas. Os jogadores podem usar esta seção para otimizar suas builds e seu dano.",
+          "href": "/progression/3-years-sword-warriors-skills",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Corte",
+              "detail": "Corte circular: 2 acertos, 5 s de recarga, rápida sinergia de múltiplos acertos"
+            },
+            {
+              "label": "Redemoinho",
+              "detail": "Redemoinho: 9 acertos, 30 s de recarga, ampla cobertura de área"
+            },
+            {
+              "label": "Furacão",
+              "detail": "Corte do furacão: 24 acertos, 60 s de recarga, DPS sustentado definitivo"
+            },
+            {
+              "label": "Sopro",
+              "detail": "Sopro de Nidhoggur: 10 acertos, 60 s de recarga, forte pressão elemental"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de mundos de 3 Years Sword Warriors",
+          "description": "Um guia de progressão que lista os mundos, os desafios de inimigos, os chefes e os níveis de poder recomendados. Ajuda os jogadores a entender a progressão de estágios do jogo e a rota de desbloqueio.",
+          "href": "/community/3-years-sword-warriors-maps",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "World 1-3",
+              "detail": "Acampamento da Horda · Desbloqueio do combate básico e do encantamento de espadas"
+            },
+            {
+              "label": "World 4-6",
+              "detail": "Abismo Glacial e Castelo Sombrio · Espadas elementais e escalonamento de inimigos"
+            },
+            {
+              "label": "World 7-9",
+              "detail": "Cemitério, Inferno e Céu · Drops celestiais e chefes de alto nível"
+            },
+            {
+              "label": "World 11-12",
+              "detail": "Selvagem e Instituto de Pesquisa de Titãs · Mecânicas de pesquisa do endgame"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de chefes de 3 Years Sword Warriors",
+          "description": "Uma referência de combate que cobre os principais chefes, as estratégias de batalha e os requisitos de preparação. Ajuda os jogadores que procuram formas de derrotar inimigos difíceis e progredir mais.",
+          "href": "/progression/3-years-sword-warriors-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lobby",
+              "detail": "Preparação com o NPC Mestre de Runas e a loja de runas antes de entrar nas raids"
+            },
+            {
+              "label": "Runas",
+              "detail": "Melhore as runas de combate até o nível 16 para maximizar a mitigação de dano"
+            },
+            {
+              "label": "Pesadelo",
+              "detail": "Desafios cronometrados de alta intensidade para subir nos rankings e conquistar glória rara"
+            },
+            {
+              "label": "Táticas",
+              "detail": "Coordene as habilidades dos heróis com rotações de habilidades explosivas para superar as fases"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guia de atualizações de 3 Years Sword Warriors",
+          "description": "Uma seção em estilo de notícias que acompanha as principais atualizações, eventos, conteúdos novos e mudanças introduzidas pelos desenvolvedores. Oferece um espaço para jogadores que procuram as informações mais recentes do jogo.",
+          "href": "/guide/3-years-sword-warriors-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mundo 12",
+              "detail": "Instituto de Pesquisa de Titãs e rankings da temporada 2 no Panteão"
+            },
+            {
+              "label": "Espadas",
+              "detail": "Mais de 14 espadas novas e armas adicionadas ao modo infinito"
+            },
+            {
+              "label": "Adornos",
+              "detail": "Sistema de adornos de herói para bônus passivos especializados de atributos"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Desafios festivos cronometrados, eventos de coleta de estrelas e presentes diários de login"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre 3 Years Sword Warriors.",
+      "items": [
+        {
+          "question": "O que é 3 Years Sword Warriors?",
+          "answer": "3 Years Sword Warriors é uma aventura de luta com espadas de fantasia no Roblox, na qual os jogadores derrotam ondas de inimigos, melhoram espadas, invocam heróis e exploram diversos mundos com encontros únicos contra chefes."
+        },
+        {
+          "question": "Como resgato os códigos de 3 Years Sword Warriors?",
+          "answer": "Abra 3 Years Sword Warriors no Roblox, acesse o menu de Configurações do jogo, localize o campo de resgate de códigos, cole seu código ativo e clique em Resgatar para receber chaves, gemas e bônus."
+        },
+        {
+          "question": "Em quais heróis os iniciantes devem focar em 3 Years Sword Warriors?",
+          "answer": "Os iniciantes de 3 Years Sword Warriors devem priorizar no começo os heróis especializados em farmar EXP e gemas para acelerar o level up e a geração de moeda antes de investir em personagens de dano de alto nível."
+        },
+        {
+          "question": "Como funciona a melhoria de estrelas das armas em 3 Years Sword Warriors?",
+          "answer": "As armas de 3 Years Sword Warriors evoluem com melhorias de 0 a 5 estrelas, o que multiplica significativamente o poder de ataque base e permite aos jogadores superar estágios e chefes de maior dificuldade."
+        },
+        {
+          "question": "Onde encontro raids contra chefes ativas em 3 Years Sword Warriors?",
+          "answer": "Em 3 Years Sword Warriors você pode acessar as raids contra chefes pelo lobby de raids para melhorar as runas até o nível 16, comprar bônus essenciais na loja de runas e enfrentar o modo Pesadelo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar 3 Years Sword Warriors?",
+      "description": "Da sua primeira espada às batalhas de guerreiro do endgame, nossa wiki da comunidade cobre tudo com guias gratuitos e atualizados.",
+      "primary": "Leia o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!",
+    "noActiveCodes": "Nenhum código ativo disponível no momento",
+    "checkBackSoonCodes": "Volte em breve para ver novos códigos",
+    "pageNotFound": "Página não encontrada",
+    "pageNotFoundHint": "O guia que você procura pode ter sido movido ou ainda não foi adicionado.",
+    "browseBossGuides": "Ver guias de chefes"
+  },
+  "footer": {
+    "aboutTitle": "3 Years Sword Warriors Wiki",
+    "about": "A wiki de 3 Years Sword Warriors é um hub de guias independente criado por fãs, que cobre rotas de progressão, guias de espadas, armas, chefes e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Aviso legal",
+    "copyright": "2026 3 Years Sword Warriors Wiki. Não afiliada à Roblox nem aos desenvolvedores do jogo.",
+    "description": "RPG de combate com espadas de fantasia no Roblox, focado na progressão do guerreiro, nas melhorias de armas e nas batalhas.",
+    "playGame": "Jogue 3 Years Sword Warriors",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Construtor de armas",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Guias de espadas",
+    "bossGuides": "Guias de chefes",
+    "buildGuide": "Guia de builds",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de 3 years sword warriors",
+    "overviewDescription": "Explore todos os códigos resgatáveis ativos e expirados, recompensas de gemas e bônus de invocação em 3 years sword warriors."
+  },
+  "guide": {
+    "overviewTitle": "Guia para iniciantes e tutoriais de 3 years sword warriors",
+    "overviewDescription": "Guias essenciais para iniciantes, mecânicas de jogo, registros de atualização e dicas de especialistas para 3 years sword warriors."
+  },
+  "items": {
+    "overviewTitle": "Armas e espadas de 3 years sword warriors",
+    "overviewDescription": "Banco de dados completo de armas, espadas, katanas, equipamentos lendários e rankings de tier list em 3 years sword warriors."
+  },
+  "combat": {
+    "overviewTitle": "Combate e builds de 3 years sword warriors",
+    "overviewDescription": "Domine as mecânicas de combate, os controles, os cálculos de dano, os combos e as builds de personagem em 3 years sword warriors."
+  },
+  "progression": {
+    "overviewTitle": "Progressão e level up em 3 years sword warriors",
+    "overviewDescription": "Rotas rápidas de level up, progressão de missões, estratégias contra chefes, habilidades e marcos de patente em 3 years sword warriors."
+  },
+  "community": {
+    "overviewTitle": "Comunidade e mapas do mundo de 3 years sword warriors",
+    "overviewDescription": "Descubra localizações dos mapas, listas de personagens, informações do servidor, notícias e links oficiais da comunidade de 3 years sword warriors."
+  }
+}
