@@ -7,6 +7,8 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
     "codes": "Codes",
     "guide": "Guide",
     "items": "Items",
